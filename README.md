@@ -24,7 +24,7 @@
 
 <!-- Areas or technologies you are currently learning about -->
 - Laravel
-- Nodejs
+- Vuejs
 - Reactjs
 
 
