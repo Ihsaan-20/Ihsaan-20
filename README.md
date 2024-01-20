@@ -7,7 +7,7 @@
 
 
 <!-- Your Banner Image -->
-![Banner](https://github.com/Ihsaan-20/Ihsaan-20/blob/main/github-banner.png)
+![Banner](https://github.com/Ihsaan-20/Ihsaan-20/blob/main/git.png)
 <!-- GitHub Profile Views Counter -->
 ![Profile Views](https://komarev.com/ghpvc/?username=Ihsaan-20)
 
