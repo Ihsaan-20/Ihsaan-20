@@ -14,8 +14,8 @@
 ## 🚀 Skills
 
 <!-- Your top skills -->
-- Programming Languages: Core PHP, Python, JavaScript, C#, C++
-- Web Development: Full-Stack Developer ( PHP/Laravel )
+- Programming Languages: Core PHP, Java, Python, JavaScript, C#, C++
+- Web Development: Full-Stack Developer ( PHP/Laravel, Java/Springboot )
 - Frameworks & Libraries: Bootstrap, TailwindCss, Jquery, Ajax
 - Database: MySql, Oracle
 - Tools & Technologies: VS code, Sublime Text, Py charm, Notepad++
