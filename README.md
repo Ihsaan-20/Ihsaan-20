@@ -17,7 +17,7 @@
 - Programming Languages: Core PHP, Java, Python, JavaScript, C#, C++
 - Web Development: Full-Stack Developer ( PHP/Laravel, Java/Springboot )
 - Frameworks & Libraries: Bootstrap, TailwindCss, Jquery, Ajax
-- Database: MySql, Oracle
+- Database: MySql, MariaDB Oracle, NoSQL, MongoDB 
 - Tools & Technologies: VS code, Sublime Text, Py charm, Notepad++
 
 ## 🌱 I'm currently learning
